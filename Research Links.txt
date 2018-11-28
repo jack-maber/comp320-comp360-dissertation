@@ -1,0 +1,49 @@
+Controller Ergonomics, Size of hands and other factors leading to imput loss and favouring of different input methods - https://www.omicsonline.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.php?aid=91613&view=mobile
+
+http://www.yorku.ca/mack/mhci2013c.html - More on hand size
+
+https://ieeexplore-ieee-org.ezproxy.falmouth.ac.uk/document/6000321 - Actually investigates if different control methods give players an advantage, and improve their experience  
+
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2468365 - Button blender actively improves player input - 
+
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2380156 - HCI in E-sports 
+
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1718981 - Talks more about the accessibility of street fighter to newbs
+
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1690464 - Based on a controller activated with movement rather than buttons, overall prefered by players, but more of a novelty
+
+https://ieeexplore-ieee-org.ezproxy.falmouth.ac.uk/document/6379550/ - Measures emg scale, no more power, more experienced players simply move faster
+
+https://dl.acm.org/citation.cfm?id=2181052 - More about FPS controls but looks at usability issues when switiching to different control metho
+
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1671078 - General game HCI paper 
+
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1028078 - Deeper look at what makes good HCI with some good historical links
+
+http://andrewd.ces.clemson.edu/courses/cpsc414/spring14/papers/group2.pdf - Looks at the design of controllers over time and how the ergonomics imporved and how they became more universal 
+
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2470752 
+
+https://etd.ohiolink.edu/!etd.send_file?accession=ohiou1283180978&disposition=inline - A whole bunch of fighting game stuff - page 96
+
+https://www.eventhubs.com/news/2017/may/23/pad-players-are-inferior-stick-users-old-perception-still-exists-fgc-results-show-why-archaic-thinking/ - on pad and stick advantages
+
+
+
+
+
+
+
+https://www.gamecrate.com/which-fighting-game-controller-right-you/14692 - Goes really in depth into the advantages of all the controllers used for fighting games VERY USEFUL
+
+https://www.reddit.com/r/Tekken/comments/7hrwav/are_there_any_real_advantages_to_using_a_fight/ - Much the same as the shoryu post, lot of good opinions 
+
+https://forums.shoryuken.com/t/arcade-sticks-advantage/58221 Shoryuken forum post, many opinions but some very good links included
+
+https://www.polygon.com/2016/7/16/12207114/evo-2016-player-piano-keyboard-controller - Player adapted to a piano after playing with a keyboard 
+
+https://kotaku.com/the-2014-evo-champ-just-won-using-a-ps1-controller-1604535870 - Luffy won evo with PS1 pad 
+
+https://www.eventhubs.com/news/2014/jul/18/luffy-ryan-hart-knows-rose-sagat-match-much-better-bonchan-does-4gamer-interviews-evo-2014-ultra-street-fighter-4-champ/ - Interview with Luffy on why he used the PS1 pad
+
+http://www.slagcoin.com/joystick/pad.html - Gives some advantages for stick over pad, but no evidence to back it up 

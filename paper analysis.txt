@@ -1,0 +1,190 @@
+Paper 1 - The Ergonomic Development of Video Game Controllers
+- " It highlights that in the past controllers were specially designed for individual games and could not be adapted to play other games. The research refers to the ‘Magnavox Odyssey 100’, the controller used to play the classic ‘pong’ game, to illustrate this issue. In contrast, modern controllers such as the Xbox One, also referenced by the research, have evolved to be able to play an increased variety of games with significantly varied control schemes."
+
+- "Brown and MacKenzie [4] found that a user’s hand size affects the usability of the controller in question"
+
+- "Through this analysis, Brown and MacKenzie research concludes that users with large hand sizes carry out fewer hand movements and thus experience improved usability for the controller while the opposite stands for users with smaller hand sizes."
+
+- "This is important to note as there have undoubtedly been improvements in the designs of game controllers since this previous generation, which are not fairly highlighted by this research".
+
+- "To further test the hypothesis, a prototype controller (Figure 4) was designed and 3D printed that meets
+every specification criterion perfectly. This prototype controller was also tested using the same methods used with the other controllers."
+
+- "This controller was manufactured by Microsoft specifically for the Xbox 360 console. It is often regarded as the best controller that has ever existed despite its age and has top rankings in countless surveys
+and articles online due to its ergonomic qualities"
+
+- "It is evident from the figure that users with body dimensions in this case, their height that are either too small or too large represent the 5th and 95th percentile respectively, while users with average anthropometrics represent the 50th percentile. Therefore, when designing parts for a controller, it is important to note which percentile the part is being designed for to ensure the best ergonomics."
+
+- "It should be noted that the SEGA Genesis controller does not possess both triggers and analogue sticks, buttons that are a prominent feature of every modern controller. The lack of these components is considered an ergonomic flaw as it prevents users from using the controller effectively for modern games that require more input options. Hence it fails in these aspects." - Bit of a ridiculous claim 
+
+- "It was expected that the modern controllers would follow the ideal anthropometric values to a better extent; however Table 2 makes it evident that this is not the case. It is possible that the face buttons are deliberately made smaller for ease of transition between the buttons when users need to rapidly perform certain actions in-game." 
+
+- "For example, the speed of a character’s movement can vary based on how far the analogue stick is pushed. The distance the sticks can be pushed is purely determined by their maximum movement angle. If this angle is too high, users with smaller hands will be unable to push the stick to its maximum value, thus hindering their gameplay experience. The ideal angle for this movement should not exceed 45º (Figure 21)."
+
+- Interesting to note that all of the controllers failed on having too smaller buttons to be effective, could be useful to compare against the arcade stick
+
+- "For a controller to be ergonomically sound, not only does it have to consider the anthropometrics of its users, but it also has to consider its affordance. As stated before, the affordance of a device is the visual cues it provides to give the user enough information to intuitively use the controller as intended"
+
+- "However, all four controllers failed to meet the stipulated values for the face button diameter. Most of the controllers fell short of the ideal value by 20% or more. Judging by this outcome, it is likely that the controllers were deliberately designed in this manner."
+
+- "The maximum movement angle on the analogue sticks should be small enough to allow complete movement for the 5th percentile of users. The ideal maximum movement angle of analogue sticks is something that all controllers bar the analogue stick-less SEGA Genesis, are able to adhere to. This might be due to the predominant usage of analogue sticks in arcade consoles and other antique controllers that has made the design of analogue sticks well-established."
+
+- "The PS4 controller, the latest controller, achieved the highest total score out of all controllers in terms of their affordances. This supports the initial hypothesis by showing that controller ergonomics have most certainly improved over the years and that manufacturers are successfully recognizing the importance of controller ergonomics."
+
+-"The predominant complaint amongst all the users was that the prototype’s face buttons seemed too awkward to use effectively. This comment came as a surprise as the controller followed every ideal anthropometric value and was supposedly ergonomically perfect. It was later realised that by maintaining the distance between the face buttons, the centres of the buttons were placed further apart, forcing users to cover a larger area when switching between the face buttons." 
+
+Paper 2 - Evaluating Video Game Controller Usability as Related to User Hand Size
+
+LOOK HERE, MAKE POINT ABOUT HAND SIZE BEING VERY IMPORTANT DUE TO TO OTHER STUDIES
+
+
+
+-"In the medical paper on surgeon tool use, hand size was a significant determinant of the difficulty using laparoscopic surgical instruments. The study surveyed 726 laparoscopic surgeons on whether they experienced difficulty with five different laparoscopic instruments. It was found that surgeons who used glove sizes 6.5 or smaller reported more difficulty with instrument use, particularly with the stapler. It was concluded that based on hand size alone 36% of surgeons (87% female, 22% male surgeons) will experience significant difficulty using the tools. Ultimately, it was suggested that manufacturers of these tools should consider hand size variability in future designs."
+
+-"Based upon these studies in other disciplines it can be concluded that controller size for gaming might have a significant effect on a player's preference and performance. As seen in Figure 3 and Figure 4 the differences in adult hand sizes can be substantial. A controller better suited to a player's hand size could make operation of the game easier and lead to less frustration and a better experience."
+
+-"The figure-of-eight method was designed to be easier and just as reliable (Pellecchia, 2003). In this method, the measurement uses string or a flexible tape measure. The string is wrapped around the participant's hand, starting at the wrist, crossing the back of the participant's hand, and ending back at the wrist (see Figure 6). Measurements generally yield about 13 inches for a small hand and about 19 inches for a large hand."
+
+-"The correlation between hand size and number of hand movements was r = -.590, which was statistically significant (t11 = 2.43, p < .05). The conclusion is that participants with larger hands can often reach more buttons on the controller without having to move their hands from the "natural" position."
+
+_"If we compare the results of user preference by hand size for the Xbox 360 controller (Figure 10) with the results of the number of hand movements for this controller (Figure 9), we see near random results (r = .238), compared to the strong correlation seen with hand movements. In the preference graph, scores range from 1 (strongly dislike) to 5 (strongly like). While participants with smaller hands may have a harder time operating the control inputs, this did not seem to affect how much they liked the controller. This result was rather surprising as it is expected that an item that is hard to operate would be less enjoyable, as occurred in the basketball size study (see related work section)."
+
+-"Of the comments in the questionnaire, a few participants indicated they liked a controller because of usability or that they liked a controller because they "used it most often" or found it similar to another controller they were familiar with. This indicates that users might carry a bias from previous experience toward what controller they like. Perhaps these results would be different if participants were to actually use these controllers during gameplay. This would enable them to become familiar with each controller and be more actively aware of benefits and shortcomings."
+
+-"The effect of number of control inputs requiring hand movement was statistically significant. Participants with larger hands could reach more buttons without moving out of the "natural" position, compared to those with smaller hands."
+
+-"This research demonstrates that a user's hand size has an effect on her or his experience with different game controllers. While significant results were found for the effect of hand size on usability, no significant results were found for the effect of hand size on preference. Further research is needed to determine if this result was due to the lack of experience some participants had with operating the controllers in real game settings." A good point as people will lie and say they prefer the stick even though they struggle to use it. 
+
+Paper 3 - History and alternative game input methods
+
+- "In early 2010, it became public knowledge that Microsoft Research had filed a patent for a muscle-computer interface that consists of neither buttons nor cameras; instead Electromyography (EMG) sensors are connected to the players arm, these sensors read the muscle movement that occurs when the player moves their fingers, this input method can detect very complex gestures, and is accurate enough to detect modified versions of gestures that would occur when the player is holding something at the same time. Microsoft is developing a wireless version of the EMG sensor module that could be placed at numerous locations all over a player's body (Saponas et al. 2009)." Possible to link with the other paper about reading reaction times with the EMG signals 
+
+-"Originally game input was a very simple affair; input devices were designed to play one game and one game only. But with the release of gaming systems able to play multiple games, the need raised for input systems that suited many games. This gave rise to the era of the gamepad, which has evolved along with the games and the hardware that plays them, growing from simple input methods with a few buttons, to the gamepads used in current generation games consoles (Sony Playstation 3, Microsoft Xbox 360 and Nintendo Wii) which are capable of and well suited to play a wide variety of different game styles."
+
+-"However, this motion is disputed by the fact that the participants who rated the intuitivism of the Dance Mat input highly had used a Dace Mat to play other games previously suggesting that being presented with an input method that is known but implemented in an un-familiar way does not necessarily make it unintuitive."
+
+-"Most of the participants stated that, with the right input and the right game, they feel that alternative input methods can have an advantage over the more traditional ones. These advantages can include the control being easier, more intuitive, or making the game more immersive."
+
+Paper 4 - Button blender: remixing input to improve video game accessibility
+
+-"Button Blender captures game inputs via a custom Python script that runs in the background during gameplay. This script captures input event data (e.g., controller ID, buttons pressed, joystick position) and stores them in a time-stamped, comma-separated log file. This file is referred to as the play-through file. Recording of the play-through file can be started and stopped via one of the unused controller buttons."
+
+-"These play-through files can be loaded back into Button Blender and used to manipulate data in a subsequent game. Button Blender uses the Microsoft Windows API to capture, override, and emulate controller input. Thus, Button Blender can capture a button press made by the player, replace it with an alternative button press from the play-through script, and pass the replaced button event to the emulator. The following section illustrates how this core functionality can be used to provide gamers with various types of play assistance"
+
+Paper 5 - High-performance pen + touch modality interactions: a real-time strategy game eSports context
+
+-"The directness of physical interaction in the Pen + Touch modality makes it much easier to connect physical movement and performance"
+
+Paper 6 - Street fighter IV: braggadocio off and on-line
+
+- "The introduction of a revolutionary  head-to-head fighting game called Street Fighter II in 1991 ushered in an era of competitive video gaming with unparalleled complexity."
+
+-"SF2, in contrast, was a head-to-head fighting game offering three separate punch buttons (jab,
+strong, fierce) and three separate kick buttons (short, forward, roundhouse). Moreover, it introduced special moves requiring execution with joystick movements of unheralded intricacy."
+
+-"For example, SF2’s signature character, RY U, can “throw” a fireball at his opponent by moving the joystick a quarter circle towards the opponent and then pressing a punch button; the punch button determines the speed of the fireball."
+
+-"Some informants reported choosing platforms for people, not gamers, to allow everyone to have fun: “input devices with a lot of buttons were generally rejected as having too much of a learning curve and requiring...‘button mashing’ for groups of gamers with a breadth of expertise levels.” 
+
+-". K E N and RY U are part of the original cast of the SF series and are considered the easiest characters to begin with"
+
+-"One gamer defended mashing, “If you aren’t doing the best to maximize your play...because inputing several motions in a row to increase chances of a reversal [move] isn’t your thing, then you are not playing to win” {srk}."
+
+- " “‘The experience from crushing my opponents on a 2-player, side by side arcade cabinet far outweighs online gaming.’...the younger generation will take time to overcome the type of pressure from playing someone up close and personal” {kotaku.com}"
+
+-"Yet, Gamestop officials failed to understand that SF4 was not just another console game by failing to understand the importance of joysticks {djwheat.tv}"
+
+-"The fact of the matter is those of us who play SF competitively and seriously, we play on joysticks...If you look at the top 10% of SF players, they’re all playing on sticks...First of all, there’s a kind of a respect issue, I guess. It’s hard for a top player whose playing on stick to take a player whose playing on a pad seriously." - VERY GOOD QUOTE
+
+-"It is revealing here that the hardware one uses is emblematic of seriousness, competitiveness, and respect. To be sure, many of the combos (a string of moves done in quick succession) in SF4 are difficult (and physically painful) to carry out without a joystick"
+
+-"Quality joysticks are not cheap; most players have adopted the Mad Catz joysticks which are either $80 or $150—nearly twice the amount for the game itself. Purchasing the joystick signifies that one seriously wishes to improve his or her skills and join the ranks of professionals"
+
+-"A tournament without joysticks led players to believe it to be a trivial, inconsequential tournament: “A lot of the best players didn’t enter because everybody was like, ‘Well, you can’t play on sticks, this tournament is going to suck”
+
+Paper 7 - A game controller based on multiple sensors
+
+-"The statistics gathered from the experiments show that even though the quality of control on the chosen fighting game is not as high as with a normal joystick, the developed controller is still preferred by most of the participants. It induces much more movement than a normal joystick"
+
+-"The participants preferred to use the controller, although it did not have a control quality as high as that of a joystick"
+
+Paper 8 - Fighting Game Skill Evaluation Method using Surface EMG Signal
+
+-"While skilled fighting game players are perceived to have great reflex or judgment like chess players, there is no precise skill evaluation method."
+
+- "However, figuring out if a fighting game player is skillful is almost based on rule of thumb and there is little academic analysis."
+
+-" We got all subjects to try inputting 10 times for each command and each player side. The total number of trials each subject was 60. The subjects who had a more than 80.0 % success rate of inputting were into skilled group and the others were into unskilled group."
+
+-" In addition, we limited the character which subjects and the experimenter selected to only Ryu. Ryu is one of the easiest characters to use in 39 characters."
+
+-"In summary, there were no significant difference of input power, but were input timing between 2 groups" 
+
+
+Paper 9 - Measuring the impact of game controllers on player experience in FPS games
+
+-"The results show that players switching to a new platform experience more usability issues and consider
+themselves more challenged, but report an equally positive overall experience as players on their comfort platform." 
+
+-"Different input controls may also affect player experience, depending on how the available input device suits the game mechanics. - Good point to draw back to the old "gamepad" does everything point
+
+-" In this context, the most interesting observation is that although players felt significantly more challenged by the game if they were not allowed to play on their comfort platform, GEQ ratings for Positive Affect remained similarly high throughout all groups while Negative Affect ratings were relatively low. This suggests that if a certain level of usability is kept, a change in gaming platform is not followed by a significant decrease in player experience when engaging with BFBC2"
+
+-"However, perceived usability is affected by a platform change, as the results show that player ratings are significantly lower than when playing on a comfort platform. This issue may be caused by a lack of familiarity with interaction paradigms on different gaming platforms, or by users paying more attention to the interface as a result of being forced to play on an unfamiliar gaming platform"
+
+-" The results show that although players do experience usability issues and feel more challenged when faced with a new gaming environment, their overall experience can be positive if the game is well-designed"
+
+Paper 10 - From the Gaming Experience to the Wider User Experience
+
+-"Controllers refer to the actual input device used; can the player actually use them? Small actions are the actions that the objects in the game can perform, and specially, how they relate to the controller. Memory is about the player remembering all the actions and the mappings into the controllers"
+
+Paper 11 - Marrying HCI/Usability and Computer Games: A Preliminary Look
+
+-"Perhaps a starting point can be the maxim in computer games (and indeed games in general): easy to learn, but difficult to master that reflects and contrasts conventional usability evidence easy to learn and easy to master"
+
+Paper 12 - Video Game Controllers
+
+-"One major challenge controller designer’s face is size. People have different hand sizes and need to be able to function with any controller adequately."
+
+-" The joystick gave the user the ability to move in a precise fashion, allowing the ability to turn in the exact direction specified by the user, rather than the directional pad which was bound to the
+left, right, down, and up directions."
+
+-" A controller can only be as complex as the general public’s hands can allow it to be. "
+
+-" These design problems are hand size, speed, and input."
+
+-"Brown et al [2] found that having small hands did not statically matter to any of the major controllers other than the Xbox controller. This shows that controller designers have worked hard to maintain the size of their controllers so they do not become unusable by any group of people" - Good to know but didn't cover arcade sticks, niche product
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
